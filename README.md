@@ -1,16 +1,15 @@
 ## Hi there 👋
+### Matt / Ryokoxx
 
-<!--
-**Ryokoxx/Ryokoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer working primarily for Landaco, an Australian
+manufacturer. Most of the code is private, but several of the webapps
+I've built are live and publicly usable on landaco.com.au.
 
-Here are some ideas to get you started:
+**Interested in**
+- Information architecture and systems that scale with the business,
+  not just features that ship
+- Capturing tribal knowledge as documentation people actually use
+- Small, sharp tools over big platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+- Whatever fits. Lately a lot of TypeScript, Node, and Claude Code.
