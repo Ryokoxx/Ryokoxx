@@ -12,4 +12,4 @@ I've built are live and publicly usable on landaco.com.au.
 - Small, sharp tools over big platforms
 
 **Stack**
-- Whatever fits. Lately a lot of TypeScript, Node, and Claude Code.
+- Whatever fits.
