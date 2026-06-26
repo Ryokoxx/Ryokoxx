@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Matt / Ryokoxx
 
-Software developer working primarily for Landaco, an Australian
-manufacturer. Most of the code is private, but several of the webapps
+Working primarily for Landaco, an Australian manufacturer.
+Most of the code is private, but several of the webapps
 I've built are live and publicly usable on landaco.com.au.
 
 **Interested in**
